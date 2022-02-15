@@ -1,0 +1,35 @@
+body{
+		font-size:roboto;
+}
+	.border{
+		margin:auto;
+		width:50%;
+		border:5px solid black;
+		padding:20px;
+		
+		
+		
+		
+			
+
+}
+    	.items{
+		margin:auto;
+		width:50%;
+		
+}
+	
+	tr:nth-child(1){
+	background:rgb(0,5,0)!important;	
+	color:#fff     !important;
+	font-size:22px !important;
+	height:30px;
+	
+	
+}
+	tr:nth-child(even){
+		background:grey;
+}
+	tr:nth-child(odd){
+		background:rgba(255,255,255,0.096);
+}
